@@ -22,7 +22,6 @@ public:
     int top() // Return the top Eleement of the queue
     {
         return Q[front];
-        
     }
     
     void Enqueue(int v)
